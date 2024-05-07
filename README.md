@@ -1,4 +1,4 @@
-# g
+# README NODE COMMAND LINE GENERATOR
 
   ## License: MIT  ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
   ### https://choosealicense.com/licenses/mit/
@@ -14,25 +14,25 @@
   ###  * [Contributors](#Ucontributions)
 
   ## GitHub username:
-  ### g
+  ### jlcastro1877
   
   ## Email Address:
-  ### g
+  ### jlcastro1877@gmail.com
 
   ## Description:
-  ### g
+  ### I can create a file called README on my REPO using NODE.js
 
   ## Installation:
   ### You must install the following for this app to function:
-  ### g
+  ### npm i
 
   ## Tests:
   ### Run the following commands in your terminal to test this app:
-  ### g
+  ### node index.js
 
   ## About this REPO:
-  ### g
+  ### Pay attention on the dependecies of this project
 
   ## Contributors:
-  ### g
+  ### email me to contribute
 
