@@ -1,7 +1,7 @@
-# Readme Automatic
+# f
 
-  ## License: Apache 2.0  undefined
-  ### http://www.apache.org/licenses/LICENSE-2.0
+  ## License: MIT  ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
+  ### https://choosealicense.com/licenses/mit/
 
   ## Table of Contents:
   ###  * [Installation](#installation)
@@ -13,13 +13,13 @@
 
   ## Installation:
   ### You must install the following for this app to function:
-  ### npm i inquirer@8.2.4
+  ### f
 
   ## Usage:
-  ### To make a good readme file
+  ### f
 
   ## Contributors:
-  ### n/a
+  ### f
 
   ## Tests:
   ### Run the following commands in your terminal to test this app:
@@ -29,5 +29,5 @@
   ### If you have any questions, you may contact me at either
   ### Github: https://github.com/undefined
   ### or
-  ### Email: jlcastro1877@gmail.com
+  ### Email: f
 
