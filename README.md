@@ -1,7 +1,7 @@
-# f
+# README GENERATOR COMMAND LINE NODE
 
-  ##  undefined
-  ### 
+  ## License: Apache 2.0  undefined
+  ### http://www.apache.org/licenses/LICENSE-2.0
 
   ## Table of Contents:
   ###  * [Installation](#installation)
@@ -13,13 +13,13 @@
 
   ## Installation:
   ### You must install the following for this app to function:
-  ### f
+  ### NPM I
 
   ## Usage:
-  ### f
+  ### USE LAYOUT TO CREATE A GOOD README
 
   ## Contributors:
-  ### f
+  ### N/A
 
   ## Tests:
   ### Run the following commands in your terminal to test this app:
@@ -29,5 +29,5 @@
   ### If you have any questions, you may contact me at either
   ### Github: https://github.com/undefined
   ### or
-  ### Email: f
+  ### Email: jlcastro1877@gmail.com
 
