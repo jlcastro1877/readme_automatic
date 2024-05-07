@@ -55,32 +55,37 @@ function generateMarkdown(data) {
   ### ${renderLicenseLink(data.license)}
 
   ## Table of Contents:
-  ###  * [Installation](#installation)
-  ###  * [Usage](#usage)
-  ###  * [License](#license)
-  ###  * [Contributors](#contributors)
+  ###  * [License](#askeMeGH)
+  ###  * [GitHub username](#askeMeGH)
+  ###  * [Email Address](#email)
+  ###  * [Description](#description)
+  ###  * [Installation](#Installation)
   ###  * [Tests](#tests)
-  ###  * [Questions](#questions)
+  ###  * [About](#UserInstruction)
+  ###  * [Contributors](#Ucontributions)
+
+  ## GitHub username:
+  ### ${data.askeMeGH}
+  
+  ## Email Address:
+  ### ${data.email}
+
+  ## Description:
+  ### ${data.description}
 
   ## Installation:
   ### You must install the following for this app to function:
   ### ${data.installation}
 
-  ## Usage:
-  ### ${data.usage}
-
-  ## Contributors:
-  ### ${data.contributions}
-
   ## Tests:
   ### Run the following commands in your terminal to test this app:
   ### ${data.tests}
 
-  ## Questions:
-  ### If you have any questions, you may contact me at either
-  ### Github: https://github.com/${data.askMe}
-  ### or
-  ### Email: ${data.email}
+  ## About this REPO:
+  ### ${data.UserInstruction}
+
+  ## Contributors:
+  ### ${data.contributions}
 
 `;
 }
