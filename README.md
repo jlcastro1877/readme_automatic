@@ -1,33 +1,38 @@
-# README GENERATOR COMMAND LINE NODE
+# g
 
-  ## License: Apache 2.0  undefined
-  ### http://www.apache.org/licenses/LICENSE-2.0
+  ## License: MIT  ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
+  ### https://choosealicense.com/licenses/mit/
 
   ## Table of Contents:
-  ###  * [Installation](#installation)
-  ###  * [Usage](#usage)
-  ###  * [License](#license)
-  ###  * [Contributors](#contributors)
+  ###  * [License](#askeMeGH)
+  ###  * [GitHub username](#askeMeGH)
+  ###  * [Email Address](#email)
+  ###  * [Description](#description)
+  ###  * [Installation](#Installation)
   ###  * [Tests](#tests)
-  ###  * [Questions](#questions)
+  ###  * [About](#UserInstruction)
+  ###  * [Contributors](#Ucontributions)
+
+  ## GitHub username:
+  ### g
+  
+  ## Email Address:
+  ### g
+
+  ## Description:
+  ### g
 
   ## Installation:
   ### You must install the following for this app to function:
-  ### NPM I
-
-  ## Usage:
-  ### USE LAYOUT TO CREATE A GOOD README
-
-  ## Contributors:
-  ### N/A
+  ### g
 
   ## Tests:
   ### Run the following commands in your terminal to test this app:
-  ### undefined
+  ### g
 
-  ## Questions:
-  ### If you have any questions, you may contact me at either
-  ### Github: https://github.com/undefined
-  ### or
-  ### Email: jlcastro1877@gmail.com
+  ## About this REPO:
+  ### g
+
+  ## Contributors:
+  ### g
 
